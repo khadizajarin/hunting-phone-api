@@ -120,4 +120,3 @@ const toggleLoadingSpinner =(isLoading) => {
 
 loadPhone();
 
-/////////////////////////////
